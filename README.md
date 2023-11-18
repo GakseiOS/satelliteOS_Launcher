@@ -1,1 +1,2 @@
-# satellite-OS_Launcher
+# satelliteOS_Launcher
+satelliteOSに搭載されて欲しいランチャーアプリ。
