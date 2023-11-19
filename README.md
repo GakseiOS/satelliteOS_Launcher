@@ -1,3 +1,2 @@
 # satelliteOS_Launcher
-satelliteOSに搭載されて欲しいランチャーアプリ。
-python+tkinterで製作中
+satelliteOSに搭載されて欲しいランチャーアプリ。python+tkinterで製作中。
