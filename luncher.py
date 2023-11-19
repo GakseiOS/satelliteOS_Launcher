@@ -21,7 +21,7 @@ print(windowsize)
 root.geometry(windowsize)
 
 #タイトルバーを非表示にする
-root.overrideredirect(True)
+#root.overrideredirect(True)
 
 
 root.mainloop()
